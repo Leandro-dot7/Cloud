@@ -1,14 +1,14 @@
 # Cloud computing
-    📋 Sobre o Projeto
+📋 Sobre o Projeto
 Este repositório contém dois trabalhos acadêmicos desenvolvidos como parte do Curso de Graduação em Sistemas de Informação, abordando conceitos fundamentais de virtualização e computação em nuvem através de implementações práticas.
 
-    🎯 Objetivos
+🎯 Objetivos
 Trabalho VM: Virtualização com Hyper-V
 Demonstrar na prática o processo de virtualização, desde a criação de uma máquina virtual até a configuração de um servidor web, aplicando conceitos fundamentais de arquitetura e organização de computadores.
 Trabalho AWS: Computação em Nuvem com AWS
 Apresentar de forma prática a criação e configuração de instâncias na AWS, destacando os benefícios da computação em nuvem e demonstrando a hospedagem de uma aplicação web.
 
-    🛠️ Tecnologias Utilizadas
+🛠️ Tecnologias Utilizadas
 Virtualização Local
 
 Hyper-V - Hipervisor Tipo 1 da Microsoft
@@ -25,7 +25,7 @@ AWS Route 53 - Serviço de DNS
 AWS CloudWatch - Monitoramento de recursos
 Linux - Sistema operacional da instância
 
-    📚 Conteúdo dos Trabalhos
+📚 Conteúdo dos Trabalhos
 1. Virtualização com Hyper-V
 O que é Virtualização?
 A virtualização permite alocar múltiplas máquinas virtuais dentro de um computador físico, otimizando recursos através do compartilhamento de hardware de forma eficiente e segura.
@@ -57,7 +57,7 @@ Por que AWS?
 📈 Escalável - Auto Scaling e Elastic Load Balancing
 🔒 Segura - Abordagem de segurança em múltiplas camadas
 
-    Serviços AWS Implementados
+Serviços AWS Implementados
 
 EC2: Hospedagem da aplicação web
 IAM: Controle de segurança e permissões
@@ -65,7 +65,7 @@ S3: Armazenamento de objetos
 Route 53: Gerenciamento de DNS
 CloudWatch: Monitoramento de recursos
 
-    Processo de Implementação
+Processo de Implementação
 
 Configuração do ambiente AWS Academy
 Criação da instância EC2
@@ -90,7 +90,7 @@ Cloud Computing
 ✔️ Configuração de segurança e rede implementada
 ✔️ Compreensão de serviços AWS essenciais
 
-    💡 Aprendizados
+💡 Aprendizados
 Conceitos Técnicos
 
 Funcionamento de hipervisores (Tipo 1 e Tipo 2)
@@ -107,7 +107,7 @@ Deploy de aplicações web
 Gerenciamento de segurança e acessos
 Monitoramento de recursos
 
-    🎓 Conclusões
+🎓 Conclusões
 A virtualização e a computação em nuvem são tecnologias fundamentais na infraestrutura moderna de TI. Através destes projetos, demonstramos:
 
 Eficiência: A capacidade de otimizar recursos físicos através da virtualização
@@ -116,5 +116,5 @@ Economia: A redução de custos operacionais e de infraestrutura
 Resiliência: A capacidade de recuperação rápida em caso de falhas
 Acessibilidade: A democratização do acesso a recursos computacionais avançados
 
-    📝 Licença
+📝 Licença
 Este projeto foi desenvolvido para fins acadêmicos como parte do Curso de Graduação em Sistemas de Informação.
