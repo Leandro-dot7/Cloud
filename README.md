@@ -57,7 +57,7 @@ Por que AWS?
 📈 Escalável - Auto Scaling e Elastic Load Balancing
 🔒 Segura - Abordagem de segurança em múltiplas camadas
 
-Serviços AWS Implementados
+Serviços AWS Implementados:
 
 EC2: Hospedagem da aplicação web
 IAM: Controle de segurança e permissões
